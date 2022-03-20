@@ -39,9 +39,9 @@ Now with the end of Prépa in sight I'm gently resuming my engagement in STARFLE
 [*Mail | Baguette#*](mailto:contact@baguettesharp.fr)
 
 ## Social Media
-[Instagram](https://instagram.com/coco33920)
-[Twitter](https://twitter.com/coco33920)
-[GitHub](https://github.com/coco33920)
+[Instagram](https://instagram.com/coco33920.0)  
+[Twitter](https://twitter.com/coco33920)  
+[GitHub](https://github.com/coco33920)  
 
 ## Notable Awards
 * Blue Squad Member 2020

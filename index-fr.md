@@ -1,0 +1,2 @@
+# USS Versailles
+Bienvenue sur la page web de l'USS Versailles NCC 75022, de la Région 9. Nous sommes membre de [STARFLEET International](https://sfi.org) l'association Internationale des Fans de Star Trek. Nombres d'entre nous se rendent dans les conventions de science ficion / comic locales afin d'y représenter l'association ansi que Star Trek. Une version anglaise de la page est disponible [ici](index.md)

@@ -1,0 +1,2 @@
+# USS Versailles
+Welcome to the USS Versailles NCC 75022 Web-page. A [french](index-fr.md) version is available too. We are a chapter of [STARFLEET International](https://sfi.org) the International Star Trek Fan Association. Many of our members participate in local science-fiction and comics convention representing Star Trek and STARFLEET International.

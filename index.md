@@ -17,10 +17,10 @@ Departments page are created and maintained by their head, or a designated commu
 ## Chain of Command
 The crew is arranged with this chain of command :
 1. The Commanding Officer (CO) (Captain [Bruno Matjasec](en/crew/co.md))
-2. The First Officer (XO) (Commander [Marc Larouche](en/crew/xo.md))
-3. The Second Officer (SO) (Captain [Anne-Laure Perrin](en/crew/cmo.md))
+2. The First Officer (XO) (Captain [Anne-Laure Perrin](en/crew/xo.md))
+3. The Second Officer (SO) (Currently vacant)
 4. The Departments Heads (CMO,CSO)
-   1. Chief Medical Officer (Captain [Anne-Laure Perrin](en/crew/cmo.md))
+   1. Chief Medical Officer (Captain [Anne-Laure Perrin](en/crew/xo.md))
    2. Chief Science Officer (Commander [Charlotte Thomas](en/crew/cso.md))
 
 You can find the remaining of the crew under the departments page. The pages are created and maintained by each crew-member, on a voluntary basis, you may not find everyone here.  

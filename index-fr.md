@@ -15,10 +15,10 @@ Vous pouvez trouvez les pages des départements ici:
 ## Chaîne de Commandement
 L'équipage est construit autour de la chaîne de commandement suivante :
 1. L'Officier Commandant (CO), (Capitaine [Bruno Matjasec](fr/crew/co.md))
-2. Le Premier Officier (XO), (Commandeur [Marc Larouche](fr/crew/xo.md))
-3. Le Second Officier (SO), (Capitaine [Anne-Laure Perrin](fr/crew/cmo.md))
+2. Le Premier Officier (XO), (Capitaine [Anne-Laure Perrin](fr/crew/xo.md))
+3. Le Second Officier (SO), (Vacant)
 4. Les Chef.fes de Départements (CMO,CSO)
-   1. Officier Médicale en Cheffe (Capitaine [Anne-Laure Perrin](fr/crew/cmo.md))
+   1. Officier Médicale en Cheffe (Capitaine [Anne-Laure Perrin](fr/crew/xo.md))
    2. Officier Scientifique en Cheffe (Commandeur [Charlotte Thomas](fr/crew/cso.md))
 
 Vous pouvez trouver le reste de l'équipage sous les pages des départements. Ces pages sont écrites et maintenues par chacun des membres, volontairement, ainsi il est possible que tous.tes n'ai pas choisi de figurer ici.

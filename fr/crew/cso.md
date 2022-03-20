@@ -1,6 +1,6 @@
 <div style="margin: auto; text-align: center">
 <h1>Cmdr. Charlotte Thomas</h1>
-<a href="../data/img_charlotte.jpg"><img width="300px" src="../../data/img_charlotte.jpg"/></a>
+<a href="../../data/img_charlotte.jpg"><img width="300px" src="../../data/img_charlotte.jpg"/></a>
 </div>
 
 
@@ -51,5 +51,5 @@ Now with the end of Prépa in sight I'm gently resuming my engagement in STARFLE
 My favourite award of all time is (and will always be!) the Diplomatic Certificate of Appreciation from the Rear Admiral Caroline Signol, Ambassador of the USS Ronald. E. McNair, R1 :)
 
 <div style="margin: auto; text-align: center">
-<a href="../data/charlotte_diplo_award.jpg"><img src="../../data/charlotte_diplo_award.jpg"/></a>
+<a href="../../data/charlotte_diplo_award.jpg"><img src="../../data/charlotte_diplo_award.jpg"/></a>
 </div>
